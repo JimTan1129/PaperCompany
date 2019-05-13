@@ -20,18 +20,13 @@ footer {
 }
 
 p {
-  text-align: center;
+  text-align: left;
   font-size: 15px;
 }
 
 img {
   height: 200px;
   margin-left: 160px;
-}
-
-button {
-  font-size: 12px;
-  padding: 5px 25px;
 }
 
 li {
