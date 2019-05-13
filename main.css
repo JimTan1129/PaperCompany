@@ -1,12 +1,12 @@
 h1 {
   text-align: center;
-  color: white;
+  color: #00BFFF;
   font-size: 40px;
 }
 
-h2{
-  font-size: 12px;
-  color: white;
+h2 {
+  font-size: 14px;
+  color: #00BFFF;
   display: inline-block;
   font-family: sans-serif;
 }
@@ -18,9 +18,11 @@ body {
 footer {
   text-align: center;
 }
-p{
+
+p {
   text-align: center;
-  font-size: 18px;
+  font-size: 15px;
+
 }
 
 img {
@@ -30,6 +32,14 @@ img {
 
 button {
   font-size: 12px;
-  padding: 10px 25px;
+  padding: 5px 25px;
+}
+
+li {
+  color: #00BFFF;
+}
+
+nav {
+  text-align: center;
 
 }
