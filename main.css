@@ -65,3 +65,7 @@ img {
   font-size: 36px;
   margin-left: 50px;
 }
+footer ul{
+  list-style-type: none;
+  font-size: 25px;
+}
