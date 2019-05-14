@@ -16,7 +16,7 @@ h2 {
 }
 
 body {
-  background-color: black;
+  background-color: #F5F5DC;
 }
 
 footer {
@@ -41,7 +41,7 @@ img {
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: white;
+  background-color: #F5F5DC;
   overflow-x: hidden;
   padding-top: 60px;
   transition: 0.5s;
